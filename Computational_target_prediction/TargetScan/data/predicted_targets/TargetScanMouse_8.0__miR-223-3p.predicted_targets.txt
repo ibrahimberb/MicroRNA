@@ -1,0 +1,326 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+Lelp1	ENSMUST00000029535.4	late cornified envelope-like proline-rich 1 	5	2	2	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0379	0.2499	1.0264	-1.25	-1.25	0.66	2007, '11
+Rhob	ENSMUST00000067384.4	ras homolog gene family, member B 	4893	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0405	0.2625	1.0527	-0.85	-0.88	0.61	2005, '07, '09, '11
+Gm9938	ENSMUST00000067077.1	predicted gene 9938 	1271	2	2	0	0	4	2	1	1	1	mmu-miR-223-3p	0.0536	0.3627	1.7130	-0.74	-1.43	0.33	NULL
+Olfm1	ENSMUST00000102879.3	olfactomedin 1 	455	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0316	0.1939	0.6369	-0.73	-0.74	0.44	2011
+Wdr62	ENSMUST00000108190.2	WD repeat domain 62 	225	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0360	0.2244	0.8357	-0.64	-0.66	0.44	2005, '07, '11
+Fam46d	ENSMUST00000101292.3	family with sequence similarity 46, member D 	5	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0428	0.2703	1.0215	-0.63	-0.63	< 0.1	2005, '07, '11
+Fbxw7	ENSMUST00000107679.2	F-box and WD-40 domain protein 7 	536	2	2	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0607	0.3829	1.4191	-0.60	-0.62	0.74	2005, '07, '11
+Apool	ENSMUST00000026599.4	apolipoprotein O-like 	1008	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0189	0.1247	0.5174	-0.59	-0.59	< 0.1	2007, '09, '11
+Fbxo8	ENSMUST00000040218.6	F-box protein 8 	1740	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0241	0.1596	0.6963	-0.58	-0.58	0.49	2005, '07, '09, '11
+Dusp2	ENSMUST00000028846.6	dual specificity phosphatase 2 	20	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0285	0.1885	0.8139	-0.58	-0.58	0.47	2005, '07, '09, '11
+Kpna3	ENSMUST00000022496.7	karyopherin (importin) alpha 3 	4861	2	2	0	0	1	0	1	0	1	mmu-miR-223-3p	0.0499	0.3198	1.2688	-0.57	-0.76	0.30	2005, '07, '11
+Armcx1	ENSMUST00000051256.4	armadillo repeat containing, X-linked 1 	539	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0237	0.1542	0.6266	-0.56	-0.56	0.37	2005, '07, '09, '11
+Gpr155	ENSMUST00000076463.6	G protein-coupled receptor 155 	532	2	1	0	1	1	0	0	1	0	mmu-miR-223-3p	0.0445	0.2974	1.3152	-0.55	-0.55	0.65	2005, '07, '11
+Phf20l1	ENSMUST00000048188.8	PHD finger protein 20-like 1 	862	1	1	0	0	2	1	1	0	0	mmu-miR-223-3p	0.0579	0.3741	1.4937	-0.54	-0.54	0.49	2005, '07, '09, '11
+Eva1a	ENSMUST00000042974.9	eva-1 homolog A (C. elegans) 	675	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0231	0.1490	0.5640	-0.54	-0.54	0.38	2007, '09, '11
+Acsl3	ENSMUST00000035779.9	acyl-CoA synthetase long-chain family member 3 	2364	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0482	0.2925	1.0014	-0.53	-0.53	0.49	2005, '07, '09, '11
+F3	ENSMUST00000029771.8	coagulation factor III 	6438	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0406	0.2393	0.7170	-0.52	-0.52	< 0.1	2005, '07, '09, '11
+Cbfb	ENSMUST00000109392.2	core binding factor beta 	6247	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0385	0.2284	0.6851	-0.51	-0.51	0.25	2005, '07, '09, '11
+Arvcf	ENSMUST00000115614.3	armadillo repeat gene deleted in velo-cardio-facial syndrome 	90	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0387	0.2532	1.0753	-0.50	-0.52	0.37	2005, '07, '09, '11
+Sept8	ENSMUST00000117061.2	septin 8 	1534	2	1	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0345	0.2250	0.9429	-0.50	-0.50	0.41	2009, '11
+Hlf	ENSMUST00000004051.7	hepatic leukemia factor 	348	3	0	1	2	0	0	0	0	0	mmu-miR-223-3p	0.0329	0.2243	1.0861	-0.49	-0.58	0.75	2005, '07, '09, '11
+Rcn2	ENSMUST00000114276.2	reticulocalbin 2 	1705	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0300	0.1862	0.6283	-0.49	-0.49	0.15	2005, '07, '09, '11
+Lmo2	ENSMUST00000170926.2	LIM domain only 2 	718	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0175	0.1170	0.5123	-0.49	-0.49	0.48	2005, '07, '09, '11
+Rasa1	ENSMUST00000109552.2	RAS p21 protein activator 1 	2160	1	1	0	0	0	0	0	0	3	mmu-miR-223-3p	0.0423	0.2820	1.3015	-0.48	-0.48	0.49	2005, '07, '09, '11
+Cdk17	ENSMUST00000069965.7	cyclin-dependent kinase 17 	746	2	2	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0330	0.2094	0.8042	-0.46	-0.83	0.74	2007, '09, '11
+Inpp4a	ENSMUST00000027287.5	inositol polyphosphate-4-phosphatase, type I 	1272	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0300	0.1872	0.6595	-0.46	-0.47	0.49	2011
+Tnfrsf19	ENSMUST00000111234.3	tumor necrosis factor receptor superfamily, member 19 	404	1	1	0	0	1	0	1	0	1	mmu-miR-223-3p	0.0384	0.2554	1.1368	-0.45	-0.46	< 0.1	2005, '07, '09, '11
+Srek1	ENSMUST00000074616.5	splicing regulatory glutamine/lysine-rich protein 1 	641	1	1	0	0	2	0	2	0	0	mmu-miR-223-3p	0.0231	0.1560	0.7275	-0.45	-0.64	0.58	2007, '09, '11
+Pura	ENSMUST00000051301.3	purine rich element binding protein A 	652	2	2	0	0	2	0	1	1	1	mmu-miR-223-3p	0.0504	0.3458	1.7530	-0.44	-0.70	0.70	2007
+Fgf6	ENSMUST00000000187.5	fibroblast growth factor 6 	28	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0617	0.3658	1.2722	-0.44	-0.56	0.39	NULL
+Fbxo25	ENSMUST00000043520.3	F-box protein 25 	332	2	2	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0234	0.1556	0.6848	-0.44	-0.59	0.42	2005, '07, '09, '11
+Siah1a	ENSMUST00000045296.4	seven in absentia 1A 	19	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0290	0.1824	0.6468	-0.44	-0.47	0.49	2009, '11
+Elk1	ENSMUST00000009550.8	ELK1, member of ETS oncogene family 	124	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0246	0.1575	0.5881	-0.44	-0.44	0.17	2005, '07, '09, '11
+Acvr2a	ENSMUST00000063886.3	activin receptor IIA 	293	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0434	0.2548	0.7731	-0.44	-0.44	0.48	2005, '07, '09, '11
+Agmo	ENSMUST00000049874.8	alkylglycerol monooxygenase 	672	1	1	0	0	1	1	0	0	1	mmu-miR-223-3p	0.0179	0.1184	0.4979	-0.43	-0.66	0.45	2007
+Fam199x	ENSMUST00000047852.7	family with sequence similarity 199, X-linked 	16	2	1	0	1	1	1	0	0	0	mmu-miR-223-3p	0.0538	0.3490	1.4499	-0.43	-0.43	0.48	2007, '09, '11
+Gpm6b	ENSMUST00000112235.2	glycoprotein m6b 	415	1	0	0	1	1	0	1	0	1	mmu-miR-223-3p	0.0270	0.1879	0.9869	-0.43	-0.43	0.45	2005, '07, '09, '11
+Hsp90b1	ENSMUST00000020238.8	heat shock protein 90, beta (Grp94), member 1 	181	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0248	0.1663	0.7561	-0.42	-0.47	0.52	2007, '09, '11
+Rnf34	ENSMUST00000031434.6	ring finger protein 34 	501	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0210	0.1366	0.5351	-0.42	-0.42	0.48	2005, '07, '09, '11
+Fat1	ENSMUST00000191428.1	FAT tumor suppressor homolog 1 (Drosophila) 	610	1	0	0	1	1	0	1	0	0	mmu-miR-223-3p	0.0435	0.3007	1.5963	-0.42	-0.42	0.47	2007, '09, '11
+Cnep1r1	ENSMUST00000095214.4	CTD nuclear envelope phosphatase 1 regulatory subunit 1 	1776	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0117	0.0807	0.3936	-0.41	-0.41	0.25	2007, '09, '11
+Sp3	ENSMUST00000102689.4	trans-acting transcription factor 3 	833	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0358	0.2143	0.6597	-0.41	-0.42	0.49	2005, '07, '09, '11
+Cpne4	ENSMUST00000057742.9	copine IV 	22	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0183	0.1225	0.5485	-0.41	-0.41	0.31	2005, '07, '09, '11
+Tmprss11e	ENSMUST00000161306.1	transmembrane protease, serine 11e 	5	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0394	0.2408	0.8369	-0.40	-0.40	0.22	2009, '11
+Sacs	ENSMUST00000119943.2	sacsin 	66	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0413	0.2807	1.4400	-0.40	-0.40	0.24	2005, '07
+Fam46a	ENSMUST00000034802.9	family with sequence similarity 46, member A 	261	1	1	0	0	1	1	0	0	0	mmu-miR-223-3p	0.0381	0.2495	1.0307	-0.39	-0.42	0.44	2007, '11
+Tnfsf15	ENSMUST00000062246.6	tumor necrosis factor (ligand) superfamily, member 15 	39	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0381	0.2332	0.8454	-0.38	-0.45	< 0.1	2011
+Cers6	ENSMUST00000028426.3	ceramide synthase 6 	1016	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0287	0.1924	0.8636	-0.38	-0.38	0.44	2007, '09, '11
+Ptbp2	ENSMUST00000029780.7	polypyrimidine tract binding protein 2 	508	2	2	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0267	0.1685	0.5984	-0.38	-0.61	0.52	2005, '07, '09, '11
+Ctsl	ENSMUST00000021933.7	cathepsin L 	19683	1	0	1	0	3	0	3	0	0	mmu-miR-223-3p	0.0088	0.0617	0.3292	-0.37	-0.68	0.39	2009, '11
+4732440D04Rik	ENSMUST00000097832.1	RIKEN cDNA 4732440D04 gene 	80	1	1	0	0	1	0	1	0	2	mmu-miR-223-3p	0.0375	0.2486	1.1390	-0.37	-0.39	< 0.1	NULL
+Rdh10	ENSMUST00000027053.7	retinol dehydrogenase 10 (all-trans) 	2115	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0229	0.1583	0.8022	-0.37	-0.38	0.40	2005, '07, '09, '11
+Ndnf	ENSMUST00000054351.4	neuron-derived neurotrophic factor 	1221	1	0	1	0	3	2	0	1	0	mmu-miR-223-3p	0.0506	0.3468	1.7121	-0.37	-0.43	0.36	2007, '09, '11
+Usp6nl	ENSMUST00000114937.2	USP6 N-terminal like 	666	1	0	1	0	2	0	0	2	1	mmu-miR-223-3p	0.0270	0.1912	1.0919	-0.36	-0.38	0.44	2007, '09, '11
+Mtpn	ENSMUST00000031866.5	myotrophin 	7888	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0120	0.0861	0.5215	-0.36	-0.37	0.41	2005, '07, '09, '11
+Treml2	ENSMUST00000170941.1	triggering receptor expressed on myeloid cells-like 2 	20	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0262	0.1729	0.7494	-0.35	-0.38	0.36	2005, '07, '09, '11
+Hist1h1a	ENSMUST00000055770.2	histone cluster 1, H1a 	5	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0123	0.0840	0.4090	-0.35	-0.44	0.11	NULL
+Ube2q2	ENSMUST00000059555.9	ubiquitin-conjugating enzyme E2Q (putative) 2 	173	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0104	0.0734	0.4036	-0.35	-0.35	0.40	2007, '09, '11
+Bet1l	ENSMUST00000026557.8	blocked early in transport 1 homolog (S. cerevisiae)-like 	1487	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0107	0.0749	0.4003	-0.35	-0.35	< 0.1	2007, '09, '11
+Dera	ENSMUST00000087675.6	2-deoxyribose-5-phosphate aldolase homolog (C. elegans) 	430	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0107	0.0751	0.4093	-0.35	-0.35	0.29	2005, '07, '09, '11
+Aco1	ENSMUST00000102973.3	aconitase 1 	1286	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0172	0.1147	0.4911	-0.35	-0.35	0.49	2005, '07, '09, '11
+Rabep1	ENSMUST00000100928.5	rabaptin, RAB GTPase binding effector protein 1 	2666	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0363	0.2410	1.1009	-0.35	-0.35	< 0.1	NULL
+Arfip1	ENSMUST00000098990.4	ADP-ribosylation factor interacting protein 1 	2628	1	0	0	1	0	0	0	0	2	mmu-miR-223-3p	0.0215	0.1496	0.7872	-0.34	-0.41	0.46	2007, '09, '11
+Tspan7	ENSMUST00000115526.1	tetraspanin 7 	3307	1	1	0	0	2	1	1	0	0	mmu-miR-223-3p	0.0413	0.2842	1.4227	-0.34	-0.34	< 0.1	2005, '07, '09, '11
+Derl1	ENSMUST00000022993.5	Der1-like domain family, member 1 	1567	1	0	1	0	2*	0	1	0	0	mmu-miR-223-3p	0.0202	0.1379	0.6685	-0.33	-0.33	0.35	2005, '07, '09, '11
+Pkp4	ENSMUST00000037903.9	plakophilin 4 	2230	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0252	0.1625	0.6376	-0.33	-0.34	0.20	2007, '09, '11
+Snai2	ENSMUST00000023356.6	snail homolog 2 (Drosophila) 	159	1	0	0	1	1	1	0	0	0	mmu-miR-223-3p	0.0230	0.1520	0.6470	-0.33	-0.70	0.39	2005, '07, '09, '11
+Inip	ENSMUST00000095063.5	INTS3 and NABP interacting protein 	881	1	0	1	0	2	0	2	0	2	mmu-miR-223-3p	0.0109	0.0760	0.3991	-0.33	-0.70	0.39	2007, '09, '11
+Nfib	ENSMUST00000107245.3	nuclear factor I/B 	2888	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0233	0.1508	0.5892	-0.32	-0.32	0.41	2005, '07, '09, '11
+Mef2c	ENSMUST00000163888.2	myocyte enhancer factor 2C 	3767	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0346	0.2404	1.2598	-0.32	-0.33	0.51	2005, '07, '11
+Btbd1	ENSMUST00000026093.7	BTB (POZ) domain containing 1 	84	1	0	1	0	1	0	0	1	0	mmu-miR-223-3p	0.0188	0.1291	0.6397	-0.32	-0.42	0.35	2005, '07, '09, '11
+Atp1b1	ENSMUST00000027863.7	ATPase, Na+/K+ transporting, beta 1 polypeptide 	27156	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0146	0.0988	0.4480	-0.31	-0.32	0.39	2005, '09, '11
+Scaf8	ENSMUST00000076734.6	SR-related CTD-associated factor 8 	2472	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0121	0.0830	0.4037	-0.31	-0.31	0.54	2007, '11
+Crim1	ENSMUST00000112498.2	cysteine rich transmembrane BMP regulator 1 (chordin like) 	926	1	0	1	0	1	0	1	0	1	mmu-miR-223-3p	0.0264	0.1818	0.9101	-0.31	-0.32	0.56	2005, '07, '11
+Prpf39	ENSMUST00000120580.2	PRP39 pre-mRNA processing factor 39 homolog (yeast) 	3161	1	0	1	0	1*	0	0	0	0	mmu-miR-223-3p	0.0132	0.0907	0.4385	-0.31	-0.31	0.41	2005, '07, '09, '11
+Dpf3	ENSMUST00000178756.2	D4, zinc and double PHD fingers, family 3 	5	1	1	0	0	2	0	0	2	0	mmu-miR-223-3p	0.0267	0.1688	0.6064	-0.30	-0.33	0.26	2005, '07
+Alcam	ENSMUST00000023312.8	activated leukocyte cell adhesion molecule 	492	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0307	0.1933	0.7416	-0.30	-0.36	0.19	2005, '07, '09, '11
+Tmem64	ENSMUST00000062684.8	transmembrane protein 64 	1560	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0176	0.1236	0.6825	-0.30	-0.30	0.45	2005, '07, '09, '11
+Cd2ap	ENSMUST00000024709.7	CD2-associated protein 	141	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0094	0.0657	0.3524	-0.30	-0.30	0.46	2005, '07, '09, '11
+Nfia	ENSMUST00000092532.7	nuclear factor I/A 	153	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0286	0.1846	0.7386	-0.30	-0.30	0.49	2005, '07, '09, '11
+Ankrd40	ENSMUST00000051221.7	ankyrin repeat domain 40 	2441	1	0	1	0	1	0	1	0	2	mmu-miR-223-3p	0.0200	0.1340	0.6062	-0.29	-0.56	0.24	2009, '11
+Gm9887	ENSMUST00000053451.1	predicted gene 9887 	32	1	0	1	0	0	0	0	0	2	mmu-miR-223-3p	0.0165	0.1165	0.6503	-0.28	-0.31	0.35	NULL
+Nfat5	ENSMUST00000169453.2	nuclear factor of activated T cells 5 	1024	1	1	0	0	2	0	1	1	3	mmu-miR-223-3p	0.0594	0.3917	1.7901	-0.28	-0.33	0.42	2005, '07, '09, '11
+Tgfbr3	ENSMUST00000031224.9	transforming growth factor, beta receptor III 	171	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0213	0.1429	0.6508	-0.28	-0.30	0.47	2009, '11
+Casq2	ENSMUST00000029454.6	calsequestrin 2 	4540	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0142	0.1006	0.5742	-0.28	-0.28	0.15	2005, '07, '09, '11
+Naa50	ENSMUST00000161326.2	N(alpha)-acetyltransferase 50, NatE catalytic subunit 	12928	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0131	0.0920	0.5100	-0.28	-0.28	0.38	2007, '09, '11
+Pak3	ENSMUST00000172330.2	p21 protein (Cdc42/Rac)-activated kinase 3 	27	1	1	0	0	1	1	0	0	0	mmu-miR-223-3p	0.0717	0.4395	1.6203	-0.28	-0.28	0.25	2011
+Neto1	ENSMUST00000058829.2	neuropilin (NRP) and tolloid (TLL)-like 1 	6	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0172	0.1148	0.4926	-0.28	-0.28	< 0.1	2011
+Eif1ad	ENSMUST00000025759.7	eukaryotic translation initiation factor 1A domain containing 	2231	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0064	0.0455	0.2604	-0.28	-0.28	0.34	2007, '09, '11
+Scn3a	ENSMUST00000066432.6	sodium channel, voltage-gated, type III, alpha 	149	1	0	1	0	2	1	0	1	1	mmu-miR-223-3p	0.0296	0.2035	1.0186	-0.28	-0.30	0.52	2005, '07, '09, '11
+Atp7a	ENSMUST00000055941.6	ATPase, Cu++ transporting, alpha polypeptide 	88	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0427	0.2586	0.8987	-0.27	-0.29	0.51	2005, '07, '09, '11
+G0s2	ENSMUST00000009777.2	G0/G1 switch gene 2 	126	1	0	1	0	2	0	1	1	1	mmu-miR-223-3p	0.0062	0.0450	0.2885	-0.27	-0.48	0.31	2005, '07, '09, '11
+Tmem170	ENSMUST00000034431.1	transmembrane protein 170 	83	2	1	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0153	0.1045	0.5090	-0.27	-0.73	0.68	2009, '11
+Gpr62	ENSMUST00000164834.2	G protein-coupled receptor 62 	13	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0084	0.0592	0.3174	-0.27	-0.27	< 0.1	2005, '07, '11
+Slc4a4	ENSMUST00000148750.2	solute carrier family 4 (anion exchanger), member 4 	5302	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0273	0.1827	0.8516	-0.27	-0.27	0.39	2007, '09, '11
+Sgms2	ENSMUST00000090246.4	sphingomyelin synthase 2 	321	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0067	0.0481	0.2877	-0.27	-0.27	0.36	2007, '09, '11
+Gpr22	ENSMUST00000057783.4	G protein-coupled receptor 22 	37	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0150	0.0997	0.4407	-0.26	-0.43	0.44	2009, '11
+Tshz3	ENSMUST00000021641.7	teashirt zinc finger family member 3 	148	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0205	0.1329	0.5211	-0.26	-0.30	0.49	2007, '09, '11
+Fam96b	ENSMUST00000093234.4	family with sequence similarity 96, member B 	216	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0136	0.0937	0.4656	-0.26	-0.27	0.37	2007, '09, '11
+Phip	ENSMUST00000034787.6	pleckstrin homology domain interacting protein 	1734	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0260	0.1786	0.9279	-0.26	-0.28	0.63	2009, '11
+Nefh	ENSMUST00000093369.4	neurofilament, heavy polypeptide 	30	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0125	0.0854	0.4127	-0.26	-0.26	0.32	2005, '07, '09, '11
+Naa30	ENSMUST00000037362.5	N(alpha)-acetyltransferase 30, NatC catalytic subunit 	980	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0179	0.1271	0.7311	-0.26	-0.36	0.41	2007, '09, '11
+Adcy7	ENSMUST00000169037.2	adenylate cyclase 7 	354	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0308	0.2087	1.0260	-0.26	-0.26	< 0.1	2007, '09, '11
+Lmln	ENSMUST00000023497.2	leishmanolysin-like (metallopeptidase M8 family) 	51	1	0	1	0	1	0	0	1	2	mmu-miR-223-3p	0.0304	0.2123	1.1364	-0.26	-0.26	0.41	2009, '11
+Smarcd1	ENSMUST00000023759.4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 	1422	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0166	0.1147	0.5869	-0.26	-0.26	0.49	2005, '07, '09, '11
+Smurf2	ENSMUST00000103067.4	SMAD specific E3 ubiquitin protein ligase 2 	2823	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0136	0.0924	0.4288	-0.26	-0.28	0.34	2011
+Fgfr2	ENSMUST00000124096.2	fibroblast growth factor receptor 2 	493	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0213	0.1381	0.5560	-0.26	-0.31	0.46	2005, '07, '09, '11
+Slc8a1	ENSMUST00000163680.3	solute carrier family 8 (sodium/calcium exchanger), member 1 	1757	1	1	0	0	1	1	0	0	3	mmu-miR-223-3p	0.0207	0.1401	0.6630	-0.25	-0.38	0.49	2005, '07, '09, '11
+Dennd6a	ENSMUST00000037585.7	DENN/MADD domain containing 6A 	582	1	0	0	1	0	0	0	0	2	mmu-miR-223-3p	0.0157	0.1097	0.5931	-0.25	-0.29	0.43	2007, '09, '11
+Usp40	ENSMUST00000040783.5	ubiquitin specific peptidase 40 	65	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0198	0.1293	0.5323	-0.25	-0.31	0.31	2007, '09, '11
+Hhex	ENSMUST00000025944.3	hematopoietically expressed homeobox 	2119	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0106	0.0757	0.4478	-0.25	-0.25	0.42	2005, '07, '09, '11
+Cops2	ENSMUST00000110463.2	COP9 (constitutive photomorphogenic) homolog, subunit 2 (Arabidopsis thaliana) 	7345	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0108	0.0751	0.3824	-0.25	-0.29	0.46	2005, '07, '09, '11
+Pknox1	ENSMUST00000176701.2	Pbx/knotted 1 homeobox 	83	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0218	0.1387	0.5516	-0.24	-0.51	0.49	2005, '07, '09, '11
+Map4	ENSMUST00000035055.9	microtubule-associated protein 4 	9028	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0246	0.1637	0.7396	-0.24	-0.24	0.46	2009, '11
+Actr1a	ENSMUST00000040270.4	ARP1 actin-related protein 1A, centractin alpha 	165	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0150	0.1016	0.4766	-0.24	-0.37	0.31	2005, '07, '09, '11
+Ankrd17	ENSMUST00000014421.9	ankyrin repeat domain 17 	1187	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0096	0.0671	0.3647	-0.24	-0.24	0.50	2005, '07, '09, '11
+Rps6kb1	ENSMUST00000154617.2	ribosomal protein S6 kinase, polypeptide 1 	1121	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0213	0.1464	0.7238	-0.24	-0.24	0.48	2005, '07, '09, '11
+Anks1b	ENSMUST00000182356.2	ankyrin repeat and sterile alpha motif domain containing 1B 	94	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0226	0.1430	0.5264	-0.24	-0.48	0.37	2007, '09, '11
+Kat6a	ENSMUST00000110696.2	K(lysine) acetyltransferase 6A 	1319	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0236	0.1595	0.7411	-0.24	-0.24	0.42	2007, '09, '11
+Slc39a8	ENSMUST00000180196.2	solute carrier family 39 (metal ion transporter), member 8 	2740	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0264	0.1668	0.5978	-0.24	-0.26	0.39	2005, '07, '09, '11
+Napepld	ENSMUST00000115217.2	N-acyl phosphatidylethanolamine phospholipase D 	76	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0153	0.0997	0.3973	-0.24	-0.41	< 0.1	2007, '09, '11
+Slc23a2	ENSMUST00000028815.9	solute carrier family 23 (nucleobase transporters), member 2 	47	1	0	1	0	1	0	0	1	4	mmu-miR-223-3p	0.0366	0.2569	1.4147	-0.24	-0.26	0.56	2005, '07, '09, '11
+Syncrip	ENSMUST00000174391.2	synaptotagmin binding, cytoplasmic RNA interacting protein 	2608	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0227	0.1569	0.8277	-0.23	-0.26	0.49	2009, '11
+Rap2a	ENSMUST00000062117.7	RAS related protein 2a 	619	1	0	1	0	1	0	0	1	0	mmu-miR-223-3p	0.0215	0.1501	0.8062	-0.23	-0.24	0.37	2005, '07, '09, '11
+Pik3c2a	ENSMUST00000170430.1	phosphatidylinositol 3-kinase, C2 domain containing, alpha polypeptide 	863	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0302	0.1946	0.7852	-0.23	-0.24	0.37	2009, '11
+5031414D18Rik	ENSMUST00000036072.7	RIKEN cDNA 5031414D18 gene 	45	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0173	0.1095	0.4144	-0.23	-0.55	0.48	2009, '11
+Spred1	ENSMUST00000028829.7	sprouty protein with EVH-1 domain 1, related sequence 	1322	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0178	0.1199	0.5538	-0.23	-0.27	0.48	2005, '07
+March3	ENSMUST00000035278.6	membrane-associated ring finger (C3HC4) 3 	123	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0077	0.0538	0.2909	-0.22	-0.24	0.41	2007
+Ccnt2	ENSMUST00000112570.1	cyclin T2 	793	1	0	0	1	2	1	1	0	2	mmu-miR-223-3p	0.0264	0.1842	0.9913	-0.22	-0.33	0.46	2005, '07, '09, '11
+Wbp1l	ENSMUST00000138302.3	WW domain binding protein 1 like 	1517	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0108	0.0762	0.4348	-0.22	-0.23	0.32	2007, '09, '11
+Brinp3	ENSMUST00000166814.2	bone morphogenetic protein/retinoic acid inducible neural specific 3 	5	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0166	0.1168	0.6409	-0.22	-0.22	0.43	2007, '09, '11
+Ulk2	ENSMUST00000004920.3	unc-51 like kinase 2 	2264	1	1	0	0	1	0	0	1	2	mmu-miR-223-3p	0.0226	0.1412	0.5257	-0.22	-0.42	0.49	2005, '07, '09, '11
+Uqcc1	ENSMUST00000109632.2	ubiquinol-cytochrome c reductase complex assembly factor 1 	555	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0064	0.0458	0.2829	-0.22	-0.22	0.41	2007, '09, '11
+Frmd4a	ENSMUST00000075767.8	FERM domain containing 4A 	256	1	0	1	0	1	0	0	1	1	mmu-miR-223-3p	0.0220	0.1530	0.7885	-0.22	-0.23	0.40	2005, '07, '09, '11
+Vamp2	ENSMUST00000117780.1	vesicle-associated membrane protein 2 	828	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0221	0.1414	0.5405	-0.21	-0.26	0.38	2005, '07, '09, '11
+Slco1a1	ENSMUST00000042119.5	solute carrier organic anion transporter family, member 1a1 	8399	1	0	0	1	3	2	0	1	0	mmu-miR-223-3p	0.0130	0.0910	0.4912	-0.21	-0.43	0.38	2009, '11
+Mbnl1	ENSMUST00000099087.2	muscleblind-like 1 (Drosophila) 	10843	1	0	0	1	2	1	1	0	1	mmu-miR-223-3p	0.0272	0.1816	0.8074	-0.21	-0.32	0.43	2005, '07, '09, '11
+Rab8b	ENSMUST00000041139.7	RAB8B, member RAS oncogene family 	85	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0143	0.0954	0.4290	-0.21	-0.31	0.49	2007, '09, '11
+2310035C23Rik	ENSMUST00000086721.4	RIKEN cDNA 2310035C23 gene 	803	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0176	0.1197	0.5780	-0.21	-0.26	0.32	2009, '11
+Purb	ENSMUST00000179343.2	purine rich element binding protein B 	1875	1	1	0	0	0	0	0	0	2	mmu-miR-223-3p	0.0375	0.2443	1.0096	-0.21	-0.38	0.43	2005, '07
+Mpz	ENSMUST00000070758.4	myelin protein zero 	5	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0087	0.0606	0.3230	-0.21	-0.21	0.43	2005, '07, '09, '11
+Spata13	ENSMUST00000022566.8	spermatogenesis associated 13 	550	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0532	0.3126	1.0380	-0.20	-0.20	0.24	2011
+Vmp1	ENSMUST00000018315.4	vacuole membrane protein 1 	10953	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0093	0.0652	0.3406	-0.20	-0.20	0.45	2007, '09, '11
+Inpp5b	ENSMUST00000094782.4	inositol polyphosphate-5-phosphatase B 	1420	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0149	0.1017	0.4854	-0.20	-0.20	0.37	2005, '07, '09, '11
+Rbm20	ENSMUST00000164202.2	RNA binding motif protein 20 	319	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0152	0.1061	0.5730	-0.20	-0.23	0.38	2011
+Pde4d	ENSMUST00000120664.2	phosphodiesterase 4D, cAMP specific 	1752	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0107	0.0765	0.4621	-0.20	-0.20	0.48	2005, '07, '11
+Brpf3	ENSMUST00000004985.9	bromodomain and PHD finger containing, 3 	911	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0277	0.1895	0.9091	-0.20	-0.20	0.62	2005, '07, '09, '11
+Lif	ENSMUST00000066283.6	leukemia inhibitory factor 	146	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0108	0.0759	0.4231	-0.20	-0.20	0.42	2005, '07, '09, '11
+Rnf145	ENSMUST00000019333.4	ring finger protein 145 	163	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0102	0.0723	0.4150	-0.20	-0.23	0.40	2007, '09, '11
+Atp2b1	ENSMUST00000020107.7	ATPase, Ca++ transporting, plasma membrane 1 	1855	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0156	0.1079	0.5632	-0.20	-0.20	0.43	2005, '07, '09, '11
+Kcnq1	ENSMUST00000185383.1	potassium voltage-gated channel, subfamily Q, member 1 	210	1	0	1	0	1	0	0	1	1	mmu-miR-223-3p	0.0155	0.1088	0.5893	-0.20	-0.20	< 0.1	2005, '07, '09, '11
+Pds5b	ENSMUST00000016569.5	PDS5, regulator of cohesion maintenance, homolog B (S. cerevisiae) 	1914	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0276	0.1788	0.7279	-0.20	-0.20	0.47	2007, '09, '11
+Myh10	ENSMUST00000102611.4	myosin, heavy polypeptide 10, non-muscle 	407	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0203	0.1381	0.6728	-0.19	-0.21	0.48	2005, '07, '09, '11
+Mmp16	ENSMUST00000029881.4	matrix metallopeptidase 16 	95	3	1	0	2	5	0	1	4	0	mmu-miR-223-3p	0.0378	0.2401	0.9005	-0.19	-0.97	0.84	2007, '11
+Tbx5	ENSMUST00000018407.6	T-box 5 	35	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0080	0.0556	0.2909	-0.19	-0.28	0.29	2005, '07, '11
+Scn1a	ENSMUST00000112366.2	sodium channel, voltage-gated, type I, alpha 	5	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0203	0.1453	0.8911	-0.19	-0.19	0.43	2007, '09, '11
+Igf1r	ENSMUST00000005671.8	insulin-like growth factor I receptor 	2095	1	1	0	0	1	0	0	1	2	mmu-miR-223-3p	0.0611	0.3970	1.7014	-0.19	-0.19	0.47	2005, '07, '09, '11
+Plekhh1	ENSMUST00000039928.5	pleckstrin homology domain containing, family H (with MyTH4 domain) member 1 	415	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0337	0.2204	0.9186	-0.19	-0.19	0.30	2005, '07, '11
+Trim3	ENSMUST00000057525.8	tripartite motif-containing 3 	338	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0117	0.0803	0.3972	-0.19	-0.19	0.40	2007, '09, '11
+Tmem47	ENSMUST00000026760.2	transmembrane protein 47 	300	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0104	0.0751	0.4683	-0.18	-0.26	0.38	2005, '07, '11
+Zfx	ENSMUST00000088102.6	zinc finger protein X-linked 	631	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0164	0.1179	0.7311	-0.18	-0.19	0.40	2007, '09, '11
+Gtpbp8	ENSMUST00000162512.2	GTP-binding protein 8 (putative) 	289	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0205	0.1196	0.3761	-0.18	-0.50	0.35	2007, '09, '11
+Ralgps2	ENSMUST00000172057.2	Ral GEF with PH domain and SH3 binding motif 2 	489	1	0	1	0	2	0	1	1	0	mmu-miR-223-3p	0.0166	0.1162	0.6428	-0.18	-0.24	0.48	2009, '11
+Rnpc3	ENSMUST00000092154.4	RNA-binding region (RNP1, RRM) containing 3 	270	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0158	0.1104	0.5983	-0.18	-0.18	0.38	2009, '11
+Hipk2	ENSMUST00000161779.2	homeodomain interacting protein kinase 2 	4649	1	1	0	0	3	0	1	2	4	mmu-miR-223-3p	0.0802	0.5355	2.5864	-0.18	-0.19	0.48	NULL
+Tnni3k	ENSMUST00000064076.4	TNNI3 interacting kinase 	812	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0102	0.0736	0.4644	-0.18	-0.18	0.41	2005, '07, '09, '11
+Efna1	ENSMUST00000029566.3	ephrin A1 	205	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0043	0.0307	0.1897	-0.18	-0.18	0.28	2005, '07, '09, '11
+Gna13	ENSMUST00000020930.8	guanine nucleotide binding protein, alpha 13 	1286	1	0	0	1	1	0	0	1	0	mmu-miR-223-3p	0.0293	0.1988	0.9578	-0.18	-0.22	0.41	2005, '07, '09, '11
+Stk39	ENSMUST00000102715.3	serine/threonine kinase 39 	140	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0107	0.0746	0.3979	-0.18	-0.28	0.37	2005, '07, '09, '11
+Smoc1	ENSMUST00000110347.3	SPARC related  modular calcium binding 1 	220	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0060	0.0431	0.2720	-0.18	-0.19	0.45	2005, '07, '09, '11
+Arid1a	ENSMUST00000145664.3	AT rich interactive domain 1A (SWI-like) 	73	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0102	0.0712	0.3732	-0.18	-0.18	0.35	2007, '09, '11
+Fam120c	ENSMUST00000073364.5	family with sequence similarity 120, member C 	62	1	0	1	0	1	1	0	0	1	mmu-miR-223-3p	0.0417	0.2860	1.4395	-0.18	-0.18	0.30	2009, '11
+Celf1	ENSMUST00000068726.7	CUGBP, Elav-like family member 1 	4386	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0261	0.1820	0.9631	-0.18	-0.19	0.28	NULL
+Golga1	ENSMUST00000112850.3	golgi autoantigen, golgin subfamily a, 1 	215	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0177	0.1226	0.6486	-0.18	-0.18	0.43	2005, '07, '09, '11
+Fam168a	ENSMUST00000049053.7	family with sequence similarity 168, member A 	201	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0135	0.0964	0.5671	-0.17	-0.25	0.33	2009, '11
+Rc3h1	ENSMUST00000161609.2	RING CCCH (C3H) domains 1 	714	1	0	1	0	2	0	1	1	0	mmu-miR-223-3p	0.0276	0.1964	1.1618	-0.17	-0.22	0.42	2007, '09, '11
+Phlpp1	ENSMUST00000061047.6	PH domain and leucine rich repeat protein phosphatase 1 	554	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0114	0.0813	0.4920	-0.17	-0.17	0.50	2007, '11
+Uhmk1	ENSMUST00000123399.1	U2AF homology motif (UHM) kinase 1 	267	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0111	0.0781	0.4433	-0.17	-0.23	0.44	NULL
+Rprd1b	ENSMUST00000109518.2	regulation of nuclear pre-mRNA domain containing 1B 	2309	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0220	0.1491	0.7097	-0.17	-0.17	< 0.1	NULL
+Cenpm	ENSMUST00000089157.4	centromere protein M 	37	1	0	1	0	1	0	1	0	0	mmu-miR-223-3p	0.0048	0.0343	0.2037	-0.17	-0.28	0.34	2009, '11
+Slc26a7	ENSMUST00000042221.8	solute carrier family 26, member 7 	10	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0132	0.0938	0.5592	-0.17	-0.20	0.36	2005, '07
+Mybl1	ENSMUST00000088658.5	myeloblastosis oncogene-like 1 	372	2	0	1	1	0	0	0	0	0	mmu-miR-223-3p	0.0155	0.1093	0.6004	-0.17	-0.17	0.61	2007
+Plagl2	ENSMUST00000056924.8	pleiomorphic adenoma gene-like 2 	205	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0115	0.0809	0.4402	-0.17	-0.17	0.44	2005, '07, '09, '11
+Nlrp3	ENSMUST00000101148.3	NLR family, pyrin domain containing 3 	18	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0091	0.0641	0.3648	-0.17	-0.17	0.29	2007, '09, '11
+Ppp1r3a	ENSMUST00000045096.4	protein phosphatase 1, regulatory (inhibitor) subunit 3A 	782	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0167	0.1187	0.6960	-0.16	-0.17	0.31	2005, '07, '09, '11
+Mga	ENSMUST00000079934.6	MAX gene associated 	1277	1	0	0	1	2	0	2	0	0	mmu-miR-223-3p	0.0205	0.1439	0.7818	-0.16	-0.19	0.42	2007, '09, '11
+Tmem229a	ENSMUST00000127247.3	transmembrane protein 229A 	683	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0176	0.1107	0.4200	-0.16	-0.36	0.44	2009, '11
+Ago3	ENSMUST00000069097.7	argonaute RISC catalytic subunit 3 	292	1	1	0	0	4	0	2	2	1	mmu-miR-223-3p	0.0466	0.3222	1.6763	-0.16	-0.20	0.47	2011
+Gm10300	ENSMUST00000094662.1	predicted gene 10300 	7	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0087	0.0615	0.3453	-0.16	-0.16	0.44	NULL
+Rorb	ENSMUST00000040153.9	RAR-related orphan receptor beta 	5	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0132	0.0943	0.5763	-0.16	-0.16	0.47	2011
+Tcerg1	ENSMUST00000025375.8	transcription elongation regulator 1 (CA150) 	1932	1	0	0	1	1	0	1	0	0	mmu-miR-223-3p	0.0158	0.1088	0.5490	-0.16	-0.24	0.46	2005, '07, '09, '11
+Foxo3	ENSMUST00000105502.2	forkhead box O3 	2275	1	0	1	0	1	1	0	0	1	mmu-miR-223-3p	0.0186	0.1300	0.6993	-0.16	-0.16	0.50	2007, '09, '11
+Sox11	ENSMUST00000079063.6	SRY (sex determining region Y)-box 11 	251	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0058	0.0414	0.2455	-0.16	-0.17	0.41	2005, '07, '09, '11
+Maf	ENSMUST00000109104.1	avian musculoaponeurotic fibrosarcoma (v-maf) AS42 oncogene homolog 	2481	1	0	0	1	1	1	0	0	0	mmu-miR-223-3p	0.0036	0.0261	0.1610	-0.16	-0.44	0.41	2007, '09, '11
+Cep68	ENSMUST00000050611.8	centrosomal protein 68 	211	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0286	0.1775	0.6479	-0.15	-0.21	< 0.1	2009, '11
+Csnk1g1	ENSMUST00000034949.4	casein kinase 1, gamma 1 	405	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0117	0.0828	0.4760	-0.15	-0.15	0.41	2005, '07, '09, '11
+Zeb1	ENSMUST00000025081.6	zinc finger E-box binding homeobox 1 	954	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0125	0.0893	0.5403	-0.15	-0.15	0.44	2009, '11
+Aebp2	ENSMUST00000032359.9	AE binding protein 2 	5753	1	0	0	1	2	0	0	2	0	mmu-miR-223-3p	0.0135	0.0941	0.5028	-0.15	-0.25	0.45	2005, '07, '09, '11
+Zfhx3	ENSMUST00000043896.9	zinc finger homeobox 3 	295	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0167	0.1142	0.5705	-0.15	-0.15	0.46	2007, '09, '11
+Celf2	ENSMUST00000170438.2	CUGBP, Elav-like family member 2 	1988	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0129	0.0927	0.5755	-0.15	-0.15	0.45	2007, '09, '11
+Zcchc14	ENSMUST00000046386.4	zinc finger, CCHC domain containing 14 	162	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0214	0.1483	0.7778	-0.15	-0.15	0.49	2005, '07, '09, '11
+Gpr126	ENSMUST00000041168.4	G protein-coupled receptor 126 	186	1	0	1	0	0	0	0	0	2	mmu-miR-223-3p	0.0084	0.0609	0.3879	-0.15	-0.15	0.30	2009, '11
+Wasl	ENSMUST00000031695.9	Wiskott-Aldrich syndrome-like (human) 	2065	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0078	0.0558	0.3391	-0.15	-0.15	0.40	2005, '07, '09, '11
+Scn2a1	ENSMUST00000028377.8	sodium channel, voltage-gated, type II, alpha 1 	7	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0213	0.1515	0.9025	-0.15	-0.15	0.44	2009, '11
+Cnot2	ENSMUST00000168036.2	CCR4-NOT transcription complex, subunit 2 	3267	1	0	0	1	2	0	0	2	0	mmu-miR-223-3p	0.0075	0.0531	0.3025	-0.14	-0.30	0.47	2007, '09, '11
+Tnrc6b	ENSMUST00000067689.7	trinucleotide repeat containing 6b 	464	1	0	0	1	0	0	0	0	2	mmu-miR-223-3p	0.0322	0.2318	1.4516	-0.14	-0.16	0.38	2007, '09, '11
+Bai3	ENSMUST00000126626.2	brain-specific angiogenesis inhibitor 3 	10	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0096	0.0678	0.3868	-0.14	-0.14	0.41	2007, '09, '11
+Clvs1	ENSMUST00000038841.8	clavesin 1 	18	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0148	0.1036	0.5670	-0.14	-0.14	0.28	2007, '09, '11
+Zbtb10	ENSMUST00000155203.1	zinc finger and BTB domain containing 10 	220	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0141	0.1015	0.6374	-0.14	-0.14	0.34	2005, '07, '11
+Sft2d2	ENSMUST00000043338.4	SFT2 domain containing 2 	395	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0140	0.0977	0.5316	-0.14	-0.29	< 0.1	2009, '11
+Rras2	ENSMUST00000069449.5	related RAS viral (r-ras) oncogene homolog 2 	4798	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0079	0.0507	0.1876	-0.14	-0.47	0.49	2009, '11
+Styx	ENSMUST00000111835.2	serine/threonine/tyrosine interaction protein 	127	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0114	0.0803	0.4508	-0.14	-0.14	0.40	2009, '11
+Adamts18	ENSMUST00000093113.4	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 18 	5	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0181	0.1220	0.5535	-0.14	-0.14	0.22	2005, '07
+Fnbp1l	ENSMUST00000162409.2	formin binding protein 1-like 	34	1	0	0	1	1	0	0	1	1	mmu-miR-223-3p	0.0203	0.1361	0.6381	-0.13	-0.23	0.38	2007, '09, '11
+Crebzf	ENSMUST00000107206.1	CREB/ATF bZIP transcription factor 	775	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0115	0.0793	0.4034	-0.13	-0.18	0.32	2007, '09, '11
+Arhgap5	ENSMUST00000110725.1	Rho GTPase activating protein 5 	2898	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0131	0.0930	0.5442	-0.13	-0.15	0.46	2007
+Rabgap1	ENSMUST00000112920.1	RAB GTPase activating protein 1 	615	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0285	0.1956	0.9675	-0.13	-0.13	< 0.1	2005, '07, '11
+Mon2	ENSMUST00000073792.4	MON2 homolog (yeast) 	2395	1	1	0	0	1	0	1	0	2	mmu-miR-223-3p	0.0130	0.0920	0.5341	-0.13	-0.20	0.17	2007, '11
+Mkln1	ENSMUST00000026699.9	muskelin 1, intracellular mediator containing kelch motifs 	1470	1	0	1	0	3	2	1	0	5	mmu-miR-223-3p	0.0261	0.1754	0.8319	-0.13	-0.47	0.32	2005, '07
+POU2F1	ENSMUST00000111427.3	POU domain, class 2, transcription factor 1 isoform B  	18	1	0	0	1	2	1	0	1	1	mmu-miR-223-3p	0.0467	0.2984	1.2447	-0.13	-0.17	0.45	NULL
+Slc37a3	ENSMUST00000090243.4	solute carrier family 37 (glycerol-3-phosphate transporter), member 3 	452	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0141	0.1000	0.5617	-0.13	-0.15	0.38	2005, '07, '09, '11
+Rab22a	ENSMUST00000029024.4	RAB22A, member RAS oncogene family 	1148	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0082	0.0586	0.3560	-0.13	-0.14	0.40	2005, '07, '09, '11
+Dnaja1	ENSMUST00000164233.2	DnaJ (Hsp40) homolog, subfamily A, member 1 	7250	1	0	1	0	1	0	0	1	1	mmu-miR-223-3p	0.0108	0.0755	0.3966	-0.13	-0.33	0.29	2009, '11
+Wwtr1	ENSMUST00000029380.8	WW domain containing transcription regulator 1 	429	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0138	0.0856	0.3008	-0.13	-0.32	0.20	2009, '11
+Itgb1	ENSMUST00000090006.6	integrin beta 1 (fibronectin receptor beta) 	11574	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0049	0.0361	0.2467	-0.12	-0.12	0.46	2005, '07, '09, '11
+Slain2	ENSMUST00000144843.2	SLAIN motif family, member 2 	1502	1	0	1	0	1	0	0	1	0	mmu-miR-223-3p	0.0094	0.0669	0.3848	-0.12	-0.15	0.35	2009, '11
+Mafb	ENSMUST00000099126.4	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian) 	852	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0067	0.0474	0.2604	-0.12	-0.14	0.44	2005, '07, '09, '11
+Xpo4	ENSMUST00000174545.2	exportin 4 	187	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0133	0.0936	0.5133	-0.12	-0.13	0.29	2005, '07
+Fubp3	ENSMUST00000055244.7	far upstream element (FUSE) binding protein 3 	672	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0157	0.0972	0.3494	-0.12	-0.30	0.44	2007, '09, '11
+Fa2h	ENSMUST00000038475.8	fatty acid 2-hydroxylase 	16	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0059	0.0428	0.2771	-0.12	-0.12	0.32	2005, '07, '09, '11
+Stam	ENSMUST00000102960.5	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1 	533	1	0	0	1	1	1	0	0	2	mmu-miR-223-3p	0.0116	0.0802	0.4095	-0.12	-0.23	0.39	2009, '11
+Cpeb3	ENSMUST00000079754.5	cytoplasmic polyadenylation element binding protein 3 	708	1	0	0	1	2	0	0	2	0	mmu-miR-223-3p	0.0190	0.1297	0.6364	-0.11	-0.16	0.55	2005, '07, '09, '11
+Fignl2	ENSMUST00000178140.1	fidgetin-like 2 	173	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0060	0.0438	0.2895	-0.11	-0.11	0.44	2007, '11
+Mamld1	ENSMUST00000082088.4	mastermind-like domain containing 1 	31	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0129	0.0854	0.3588	-0.11	-0.15	< 0.1	2007
+Sox6	ENSMUST00000166877.2	SRY (sex determining region Y)-box 6 	594	2	0	0	2	0	0	0	0	2	mmu-miR-223-3p	0.0288	0.2057	1.2328	-0.11	-0.12	0.68	2009, '11
+Dennd5b	ENSMUST00000111557.2	DENN/MADD domain containing 5B 	493	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0227	0.1597	0.9073	-0.10	-0.17	0.47	2007, '09, '11
+Ss18	ENSMUST00000040964.7	synovial sarcoma translocation, Chromosome 18 	76	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0096	0.0648	0.3027	-0.10	-0.29	0.49	NULL
+Kmt2c	ENSMUST00000045291.8	lysine (K)-specific methyltransferase 2C 	655	1	0	0	1	1	0	0	1	0	mmu-miR-223-3p	0.0252	0.1803	1.1022	-0.10	-0.10	0.44	2007, '09, '11
+Slc35f1	ENSMUST00000105473.2	solute carrier family 35, member F1 	37	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0074	0.0533	0.3446	-0.10	-0.10	0.39	2007, '09, '11
+Carm1	ENSMUST00000115395.4	coactivator-associated arginine methyltransferase 1 	117	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0037	0.0266	0.1740	-0.10	-0.10	0.45	2005, '07, '09, '11
+Lcor	ENSMUST00000067795.6	ligand dependent nuclear receptor corepressor 	127	1	0	0	1	1	0	0	1	1	mmu-miR-223-3p	0.0234	0.1613	0.8331	-0.10	-0.12	0.51	NULL
+Frk	ENSMUST00000019913.8	fyn-related kinase 	258	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0140	0.0831	0.3017	-0.10	-0.53	0.49	NULL
+Prdm1	ENSMUST00000039174.5	PR domain containing 1, with ZNF domain 	54	1	0	1	0	1	0	0	1	1	mmu-miR-223-3p	0.0118	0.0821	0.4409	-0.09	-0.22	0.48	2005, '07, '09, '11
+Otud4	ENSMUST00000173078.2	OTU domain containing 4 	2329	1	0	0	1	1*	0	0	0	1	mmu-miR-223-3p	0.0126	0.0900	0.5456	-0.09	-0.10	0.43	2007, '09, '11
+G3bp1	ENSMUST00000018727.3	GTPase activating protein (SH3 domain) binding protein 1 	1747	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0090	0.0649	0.4190	-0.09	-0.09	0.45	2007, '09, '11
+Elp4	ENSMUST00000122965.2	elongation protein 4 homolog (S. cerevisiae) 	344	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0090	0.0638	0.3782	-0.09	-0.23	0.31	NULL
+Abhd13	ENSMUST00000139793.2	abhydrolase domain containing 13 	879	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0071	0.0477	0.2159	-0.09	-0.23	0.46	2007, '09, '11
+Cbx5	ENSMUST00000118152.2	chromobox 5 	1766	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0109	0.0756	0.4067	-0.09	-0.42	0.49	2009, '11
+Eif5b	ENSMUST00000027252.7	eukaryotic translation initiation factor 5B 	574	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0107	0.0704	0.2920	-0.09	-0.20	0.46	2009, '11
+Snx12	ENSMUST00000077876.3	sorting nexin 12 	220	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0045	0.0318	0.1803	-0.09	-0.28	0.30	NULL
+Prdx2	ENSMUST00000109734.2	peroxiredoxin 2 	203	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0020	0.0141	0.0851	-0.09	-0.27	0.33	NULL
+Plce1	ENSMUST00000169713.3	phospholipase C, epsilon 1 	216	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0168	0.1185	0.6910	-0.09	-0.14	0.45	2009, '11
+Phactr4	ENSMUST00000102568.4	phosphatase and actin regulator 4 	109	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0067	0.0481	0.2963	-0.09	-0.09	0.32	2007, '09, '11
+Srgap3	ENSMUST00000088373.5	SLIT-ROBO Rho GTPase activating protein 3 	81	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0101	0.0716	0.4164	-0.08	-0.17	0.37	2005, '07, '09, '11
+Jmy	ENSMUST00000065537.7	junction-mediating and regulatory protein 	482	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0139	0.0918	0.4070	-0.08	-0.17	0.49	2011
+Pou2f1	ENSMUST00000111429.5	POU domain, class 2, transcription factor 1 	18	1	0	0	1	2	1	0	1	1	mmu-miR-223-3p	0.0295	0.1888	0.7880	-0.08	-0.18	0.45	NULL
+Cdh12	ENSMUST00000075132.6	cadherin 12 	5	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0150	0.1013	0.4547	-0.08	-0.08	0.44	2005, '07, '09, '11
+Ttc9	ENSMUST00000036116.5	tetratricopeptide repeat domain 9 	109	1	1	0	0	0	0	0	0	2	mmu-miR-223-3p	0.0128	0.0865	0.4392	-0.08	-0.33	< 0.1	NULL
+Pag1	ENSMUST00000161949.2	phosphoprotein associated with glycosphingolipid microdomains 1 	228	1	1	0	0	1	0	0	1	1	mmu-miR-223-3p	0.0115	0.0825	0.4997	-0.08	-0.09	< 0.1	2007, '11
+Sh3pxd2b	ENSMUST00000038753.5	SH3 and PX domains 2B 	545	1	1	0	0	2	1	1	0	1	mmu-miR-223-3p	0.0273	0.1901	1.0021	-0.08	-0.08	0.26	2007, '09, '11
+Cux1	ENSMUST00000004097.10	cut-like homeobox 1 	195	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0193	0.1367	0.7929	-0.08	-0.08	0.31	2007
+Ebf3	ENSMUST00000106118.3	early B cell factor 3 	347	1	0	0	1	1	0	0	1	0	mmu-miR-223-3p	0.0080	0.0577	0.3527	-0.08	-0.24	0.47	2005, '07, '09, '11
+Ube2a	ENSMUST00000016452.7	ubiquitin-conjugating enzyme E2A 	1444	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0056	0.0341	0.1115	-0.08	-0.61	0.48	2005, '07, '09, '11
+Tmc3	ENSMUST00000039317.8	transmembrane channel-like gene family 3 	25	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0183	0.1274	0.6905	-0.08	-0.08	0.24	NULL
+Pkn2	ENSMUST00000043812.9	protein kinase N2 	374	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0095	0.0622	0.2955	-0.08	-0.33	0.21	2007, '11
+Flrt1	ENSMUST00000113383.2	fibronectin leucine rich transmembrane protein 1 	74	1	1	0	0	1	0	0	1	1	mmu-miR-223-3p	0.0162	0.1135	0.6268	-0.07	-0.12	0.36	2009, '11
+Ppp1r12b	ENSMUST00000045665.7	protein phosphatase 1, regulatory (inhibitor) subunit 12B 	2779	1	0	1	0	0	0	0	0	2	mmu-miR-223-3p	0.0187	0.1349	0.8502	-0.07	-0.07	0.29	2007
+Foxp1	ENSMUST00000113326.3	forkhead box P1 	1050	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0085	0.0592	0.3133	-0.06	-0.15	0.45	2011
+Slc24a2	ENSMUST00000107157.3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 2 	8	1	0	0	1	1	0	0	1	1	mmu-miR-223-3p	0.0286	0.2014	1.1400	-0.06	-0.06	0.48	2009, '11
+Trpv2	ENSMUST00000018651.8	transient receptor potential cation channel, subfamily V, member 2 	22523	2	0	2	0	0	0	0	0	0	mmu-miR-223-3p	0.0218	0.1518	0.8042	-0.06	-0.06	0.73	NULL
+2210018M11Rik	ENSMUST00000038359.4	RIKEN cDNA 2210018M11 gene 	780	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0177	0.1180	0.5183	-0.05	-0.18	0.45	2007
+Zbtb9	ENSMUST00000120016.1	zinc finger and BTB domain containing 9 	573	1	1	0	0	1	0	0	1	1	mmu-miR-223-3p	0.0085	0.0543	0.2347	-0.05	-0.31	0.46	NULL
+Polr3e	ENSMUST00000033173.8	polymerase (RNA) III (DNA directed) polypeptide E 	792	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0042	0.0297	0.1723	-0.05	-0.11	0.39	2005, '07, '09, '11
+Xcr1	ENSMUST00000182350.1	chemokine (C motif) receptor 1 	26	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0065	0.0445	0.2335	-0.05	-0.28	< 0.1	2009, '11
+Sept6	ENSMUST00000053456.5	septin 6 	1556	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0059	0.0326	0.0892	-0.04	-0.47	0.49	2005, '07, '11
+Armc1	ENSMUST00000029125.8	armadillo repeat containing 1 	328	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0029	0.0190	0.0777	-0.04	-0.64	0.51	2005, '07, '09, '11
+Mcmbp	ENSMUST00000057557.8	MCM (minichromosome maintenance deficient) binding protein 	2843	1	1	0	0	2	1	1	0	0	mmu-miR-223-3p	0.0041	0.0271	0.1175	-0.04	-0.65	0.31	2007, '09, '11
+Kif21b	ENSMUST00000075164.5	kinesin family member 21B 	144	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0135	0.0978	0.6222	-0.04	-0.04	0.36	2007, '09, '11
+Cdyl	ENSMUST00000075220.7	chromodomain protein, Y chromosome-like 	236	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0034	0.0244	0.1555	-0.04	-0.04	0.35	2007, '09, '11
+Kdm1b	ENSMUST00000037025.9	lysine (K)-specific demethylase 1B 	1094	1	0	0	1	1	0	0	1	1	mmu-miR-223-3p	0.0039	0.0288	0.1962	-0.03	-0.16	0.57	NULL
+Msi2	ENSMUST00000107909.2	musashi RNA-binding protein 2 	510	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0033	0.0228	0.1218	-0.03	-0.13	0.49	2009, '11
+Map2k6	ENSMUST00000020949.6	mitogen-activated protein kinase kinase 6 	142	1	0	1	0	1	0	0	1	1	mmu-miR-223-3p	0.0109	0.0782	0.4781	-0.03	-0.09	0.36	NULL
+Dlgap1	ENSMUST00000133983.2	discs, large (Drosophila) homolog-associated protein 1 	8	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0133	0.0909	0.4409	-0.03	-0.04	0.11	2009, '11
+Ypel1	ENSMUST00000035682.8	yippee-like 1 (Drosophila) 	151	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0013	0.0096	0.0645	-0.03	-0.23	0.46	2005, '07, '09, '11
+Calb1	ENSMUST00000029876.1	calbindin 1 	3120	1	1	0	0	1	0	0	1	1	mmu-miR-223-3p	0.0042	0.0302	0.1924	-0.03	-0.71	0.31	NULL
+Fbxo46	ENSMUST00000053109.3	F-box protein 46 	127	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0041	0.0298	0.1881	-0.03	-0.31	< 0.1	NULL
+Mboat2	ENSMUST00000110942.4	membrane bound O-acyltransferase domain containing 2 	251	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0057	0.0406	0.2363	-0.02	-0.15	0.42	NULL
+Mpv17l2	ENSMUST00000038626.8	MPV17 mitochondrial membrane protein-like 2 	48	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0019	0.0129	0.0633	-0.02	-0.41	0.23	NULL
+Tet3	ENSMUST00000089622.5	tet methylcytosine dioxygenase 3 	1592	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0064	0.0470	0.3191	-0.02	-0.02	0.34	2011
+Srpk2	ENSMUST00000088392.4	serine/arginine-rich protein specific kinase 2 	1085	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0020	0.0127	0.0483	-0.02	-0.35	0.49	2009, '11
+Baz1a	ENSMUST00000038926.7	bromodomain adjacent to zinc finger domain 1A 	437	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0047	0.0330	0.1879	-0.02	-0.18	< 0.1	NULL
+Atxn1	ENSMUST00000180110.2	ataxin 1 	414	1	0	1	0	0	0	0	0	1	mmu-miR-223-3p	0.0135	0.0972	0.6081	-0.02	-0.02	0.30	2005, '07, '11
+Atp5s	ENSMUST00000021372.5	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit S 	339	1	1	0	0	0	0	0	0	2	mmu-miR-223-3p	0.0013	0.0095	0.0644	-0.02	-0.21	< 0.1	NULL
+Arpp19	ENSMUST00000169492.2	cAMP-regulated phosphoprotein 19 	16301	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0008	0.0055	0.0337	-0.02	-0.22	0.40	2007, '09, '11
+Zbtb18	ENSMUST00000094276.3	zinc finger and BTB domain containing 18 	46	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0035	0.0255	0.1619	-0.02	-0.15	0.42	2007, '09, '11
+Myo5b	ENSMUST00000074157.7	myosin VB 	691	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0020	0.0143	0.0808	-0.01	-0.12	0.34	2007
+Orc4	ENSMUST00000028098.5	origin recognition complex, subunit 4 	1446	1	0	0	1	1	0	0	1	0	mmu-miR-223-3p	0.0028	0.0190	0.0866	-0.01	-0.16	0.48	2009, '11
+Dmrt2	ENSMUST00000053068.5	doublesex and mab-3 related transcription factor 2 	154	1	1	0	0	0	0	0	0	2	mmu-miR-223-3p	0.0041	0.0292	0.1707	-0.01	-0.18	0.28	NULL
+Sept11	ENSMUST00000074733.7	septin 11 	4345	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0097	0.0665	0.3541	-0.01	-0.15	0.21	NULL
+Vti1a	ENSMUST00000095950.2	vesicle transport through interaction with t-SNAREs 1A 	693	1	0	0	1	0	0	0	0	1	mmu-miR-223-3p	0.0039	0.0284	0.1882	-0.01	-0.04	0.44	2007
+St3gal6	ENSMUST00000137035.2	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 	1417	1	0	0	1	2	0	0	2	1	mmu-miR-223-3p	0.0013	0.0087	0.0422	-0.01	-0.28	0.44	NULL
+Map1b	ENSMUST00000064762.4	microtubule-associated protein 1B 	306	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0047	0.0339	0.2303	-0.01	-0.02	0.30	2005, '07, '09, '11
+Wdr26	ENSMUST00000162819.2	WD repeat domain 26 	3481	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0042	0.0307	0.2117	-0.01	-0.02	0.32	2005, '07, '09, '11
+Prpf38a	ENSMUST00000079213.5	PRP38 pre-mRNA processing factor 38 (yeast) domain containing A 	716	1	1	0	0	1	0	0	1	1	mmu-miR-223-3p	0.0008	0.0056	0.0257	-0.01	-0.32	0.20	2005, '07
+5830473C10Rik	ENSMUST00000094615.4	RIKEN cDNA 5830473C10 gene 	269	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0030	0.0213	0.1405	-0.01	-0.21	< 0.1	NULL
+Hspa1b	ENSMUST00000172753.1	heat shock protein 1B 	1182	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0012	0.0084	0.0527	-0.01	-0.10	0.45	NULL
+Trpm4	ENSMUST00000042194.8	transient receptor potential cation channel, subfamily M, member 4 	235	1	1	0	0	2	0	1	1	0	mmu-miR-223-3p	0.0007	0.0047	0.0276	0	-0.16	0.47	NULL
+Nelfa	ENSMUST00000030993.6	negative elongation factor complex member A, Whsc2 	487	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0023	0.0166	0.1050	0	-0.21	0.41	NULL
+Pdzd8	ENSMUST00000099274.2	PDZ domain containing 8 	277	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0017	0.0122	0.0735	0	-0.14	< 0.1	NULL
+Hs3st1	ENSMUST00000117944.1	heparan sulfate (glucosamine) 3-O-sulfotransferase 1 	137	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0021	0.0153	0.0956	0	-0.20	< 0.1	NULL
+Papolg	ENSMUST00000020513.4	poly(A) polymerase gamma 	577	1	1	0	0	0	0	0	0	1	mmu-miR-223-3p	0.0066	0.0478	0.3156	0	-0.21	< 0.1	NULL
+Dcn	ENSMUST00000105287.4	decorin 	1588	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0009	0.0065	0.0459	0	-0.24	0.14	NULL
+Trmt5	ENSMUST00000116420.2	TRM5 tRNA methyltransferase 5 	3665	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0009	0.0063	0.0420	0	-0.22	< 0.1	NULL
+Gmpr	ENSMUST00000000260.7	guanosine monophosphate reductase 	1547	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0002	0.0017	0.0086	0	-0.12	0.38	NULL
+Zc3h14	ENSMUST00000110105.3	zinc finger CCCH type containing 14 	1510	1	0	1	0	1	0	1	0	1	mmu-miR-223-3p	0.0023	0.0170	0.1192	0	-0.23	0.48	NULL
+Srp19	ENSMUST00000072576.4	signal recognition particle 19 	3344	1	0	1	0	1	1	0	0	0	mmu-miR-223-3p	0.0005	0.0033	0.0229	0	-0.79	0.37	NULL
+Edc3	ENSMUST00000043990.8	enhancer of mRNA decapping 3 homolog (S. cerevisiae) 	1085	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0002	0.0011	0.0074	0	-0.02	< 0.1	NULL
+Zfand5	ENSMUST00000025659.5	zinc finger, AN1-type domain 5 	4149	1	0	0	1	3	0	1	2	3	mmu-miR-223-3p	0.0006	0.0042	0.0301	0	-0.67	0.42	NULL
+Smlr1	ENSMUST00000179685.2	small leucine-rich protein 1 	1001	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0001	0.0004	0.0026	0	-0.34	0.12	NULL
+Cyb5rl	ENSMUST00000106758.2	cytochrome b5 reductase-like 	552	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0000	0.0003	0.0018	0	-0.03	< 0.1	NULL
+Calml4	ENSMUST00000034777.7	calmodulin-like 4 	5208	1	1	0	0	1	0	0	1	0	mmu-miR-223-3p	0.0000	0.0001	0.0002	0	-0.55	0.49	2005, '07
+Ppp2r3a	ENSMUST00000075941.6	protein phosphatase 2, regulatory subunit B'', alpha 	1020	1	0	1	0	0	0	0	0	0	mmu-miR-223-3p	0.0003	0.0019	0.0135	0	-0.06	0.48	NULL
+Gstz1	ENSMUST00000063117.8	glutathione transferase zeta 1 (maleylacetoacetate isomerase) 	23139	1	1	0	0	1	0	1	0	0	mmu-miR-223-3p	0.0018	0.0128	0.0873	0	-0.20	< 0.1	NULL
+Atxn10	ENSMUST00000163242.1	ataxin 10 	7751	1	1	0	0	0	0	0	0	0	mmu-miR-223-3p	0.0008	0.0059	0.0405	0	-0.21	< 0.1	NULL
+Ccne1	ENSMUST00000108023.4	cyclin E1 	82	1	0	0	1	0	0	0	0	0	mmu-miR-223-3p	0.0002	0.0011	0.0083	0	-0.08	0.42	NULL
